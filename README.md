@@ -52,7 +52,8 @@ Arrange the visualizations on the report canvas to create an intuitive and visua
 Customize the appearance of the visualizations by adjusting colors, fonts, labels, and other formatting options. Use the formatting tools available in Power BI to ensure consistency and improve the visual appeal of our dashboard.
 ##### Step 13: Monitor and Update
 Regularly monitor the COVID-19 data sources and update our dashboard accordingly. Power BI provides options for scheduled data refresh, which can automatically update our dashboard with the latest COVID-19 statistics.
-
+### License
+This project is licensed under the MIT License. Feel free to modify and use it as per your requirements.
 ### Conclusion
 Creating a COVID-19 dashboard in Power BI allows us to visualize and analyze the latest pandemic statistics in an interactive and informative manner. By following the step-by-step instructions and leveraging Power BI's powerful features, we can gather data from reliable sources, transform it, and design visually appealing and interactive dashboards.
 
