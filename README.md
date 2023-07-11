@@ -44,6 +44,7 @@ Click on Close & Apply. It saves the data and takes us back to the designer pane
 ![image](https://github.com/shaheeneqbal/COVID-Web-Scraping-using-Power-BI/assets/67499556/23284fcc-9657-4527-8792-fa70cb7f969e)
 ##### Step 10: Create Visualizations
 Once your data is loaded and transformed, switch to the "Report" view in Power BI Desktop. Select the desired visualizations from the Visualizations pane on the right side of the screen. Drag and drop data fields onto the visualizations to create charts, tables, maps, or any other visual elements that best represent the COVID-19 data.
+
 ![image](https://github.com/shaheeneqbal/COVID-Web-Scraping-using-Power-BI/assets/67499556/5ad3399f-5f9e-4ab2-b623-b3a575cc4a0f)
 ##### Step 11: Design the Dashboard
 Arrange the visualizations on the report canvas to create an intuitive and visually appealing layout. Add additional elements like slicers, filters, or text boxes to enhance interactivity and provide context to the COVID-19 data.
