@@ -53,3 +53,10 @@ Customize the appearance of the visualizations by adjusting colors, fonts, label
 ##### Step 13: Monitor and Update
 Regularly monitor the COVID-19 data sources and update our dashboard accordingly. Power BI provides options for scheduled data refresh, which can automatically update our dashboard with the latest COVID-19 statistics.
 
+### Conclusion
+Creating a COVID-19 dashboard in Power BI allows us to visualize and analyze the latest pandemic statistics in an interactive and informative manner. By following the step-by-step instructions and leveraging Power BI's powerful features, we can gather data from reliable sources, transform it, and design visually appealing and interactive dashboards.
+
+Once our COVID-19 dashboard is ready, we can share it with colleagues, stakeholders, or the wider public. Power BI provides publishing and sharing capabilities, allowing us to disseminate our dashboard via the Power BI service or embedding it into websites or applications. This facilitates collaboration, decision-making, and awareness by enabling others to interact with and gain insights from our COVID-19 dashboard. Stay informed, stay safe, and utilize the power of Power BI to visualize and analyze COVID-19 data for a brighter future.
+
+
+
